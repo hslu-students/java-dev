@@ -18,7 +18,7 @@ vagrant ssh
 /opt/eclipse/eclipse-inst
 
 # launch eclipse and learn to live with it!
-eclpise
+eclipse
 ```
 
 Login with username *batman* and password *bruce*.
